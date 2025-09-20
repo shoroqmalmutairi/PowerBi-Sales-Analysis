@@ -25,15 +25,16 @@ This project is an **interactive Power BI report** analyzing sales data from a S
 
 ---
 
+## 📑 Project Report
+- 📥 [View the Report (PDF)](./Makeup%20website%20in%20Saudi%20Arabia.pdf)  
+
+## 📊 Power BI File
+- 📥 [Download Power BI Template (PBIT)](./Makeup%20website%20in%20Saudi%20Arabia.pbit)  
+
+
 ## 📸 Dashboard Preview
-*(Add screenshots here)*  
-Example:  
-![Dashboard Overview](screenshots/dashboard_overview.png)  
+![Dashboard Page 1](https://github.com/user-attachments/assets/5cec0436-e8d7-4692-9db7-0f0ceb85d55d))  
+![Dashboard Page 2](https://github.com/user-attachments/assets/934ef8e8-e5c4-4eed-94fd-0517ff6e00f1)
 
----
 
-## 📥 Usage
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
