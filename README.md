@@ -43,7 +43,7 @@ This project is an **interactive Power BI report** analyzing sales data from a S
 👤 **Author**  
 
 Developed by **Shoroq Muhammed**  
-📧 Email: [your.email@example.com](mailto:shoroqmalmutairi@gmail.com)  
-🔗 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/shoroq-mohammed)
+📧 Email: [shoroqmalmutairi@gmail.com](mailto:shoroqmalmutairi@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/shoroq-mohammed](www.linkedin.com/in/shoroq-mohammed)
 
 
